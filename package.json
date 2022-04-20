@@ -1,0 +1,23 @@
+{
+    "name": "ajs-homeworks-platforms-nodejs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EvgeniiaSanochkina/ajs-homeworks-platforms-nodejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EvgeniiaSanochkina/ajs-homeworks-platforms-nodejs/issues"
+    },
+    "homepage": "https://github.com/EvgeniiaSanochkina/ajs-homeworks-platforms-nodejs#readme",
+    "dependencies": {
+        "@evgeniiasanochkina/ajs-homeworks-platform": "^1.0.0"
+    }
+}
